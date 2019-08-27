@@ -30,5 +30,5 @@ if data['status'] == 'OK':
     f.close()
 
 else:
-    print('There may be some issues on Codeforces or the servers or not responding');
+    print('There may be some issues on Codeforces or the servers are not responding');
     print('Please Wait and try it after few minutes');
