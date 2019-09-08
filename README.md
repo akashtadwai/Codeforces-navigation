@@ -7,4 +7,4 @@ This is a contest navigator on the platform of codeforces, one can navigate thro
 
 
 #### Usage
-By running the python files we can get the respective txt files with the links to the required contests
+By running the python files we can get the respective txt files with the links to the required contests.
